@@ -23,5 +23,5 @@ You can review the completed notebooks [here](https://dataplatform.cloud.ibm.com
 
 ## Licenses
 
-- Dataset: [[CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Dataset: [[CC-BY-SA 3.0]](https://creativecommons.org/licenses/by-sa/3.0/)
 - Notebooks:  [MIT](https://opensource.org/licenses/MIT)
